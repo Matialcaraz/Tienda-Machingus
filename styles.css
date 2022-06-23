@@ -1,0 +1,46 @@
+html {
+    background-color: white;
+}
+
+.encabezado {
+    color: #0000ff;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+.titulo { 
+    color: #0000ff;
+    text-align: center;
+    font-size: 45px;
+}
+
+.descript {
+    color: #0000ff;
+    text-align: center;
+    font-size: 35px;
+}
+
+ul li {
+    display: inline-block; 
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 200px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    border: 04px solid #000000;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+footer {
+    font-size: 20px; 
+    text-align: left;
+}
+
+.machin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
